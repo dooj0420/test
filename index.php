@@ -118,7 +118,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="divider call-to-action sm-text-center text-center pt-10 pb-20">
-                <h2 class="mt-20 mb-20 text-white">Quick Free Trial !</h2>
+                <h2 class="mt-20 mb-20 text-white">Quick Free Trial!</h2>
 				<form>
 				  <div class="row">
 					<div class="col-sm-5">
